@@ -1,5 +1,7 @@
 # Screen Spyware
 
+![image](https://drive.google.com/uc?export=download&id=1F5VVhcpT-Q0UKURoEs98ywISs9RPEzzF)
+
 ## Disclaimer
 
 This script is for educational purposes only, I don't endorse or promote it's illegal usage
@@ -15,7 +17,7 @@ This script is for educational purposes only, I don't endorse or promote it's il
 
 ## Overview
 
-This script allows an attacker spy on a target through the screen
+This script allows an attacker to spy on a target through the screen
 
 ## Features
 
